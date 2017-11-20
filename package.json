@@ -2,6 +2,11 @@
   "name": "meanapp",
   "version": "1.0.0",
   "description": "simple meanauth app",
+  "author": "Ahsan Khan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Creativetech-Solutions/mean-auth-app"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,6 +23,5 @@
     "passport": "^0.4.0",
     "passport-jwt": "*"
   },
-  "author": "muhammad salman",
   "license": "ISC"
 }
