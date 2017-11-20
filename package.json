@@ -1,0 +1,23 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "simple meanauth app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "pakage": "^1.0.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "*"
+  },
+  "author": "muhammad salman",
+  "license": "ISC"
+}
