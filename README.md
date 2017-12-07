@@ -33,7 +33,7 @@ Install the npm packages described in the package.json and verify that it works:
 <p> npm install<br>
 npm start </p><br>
 <p>The npm start command first compiles the application, then simultaneously re-compiles and runs the lite-server. Both the compiler and the server watch for file changes.<br>
-Shut it down manually with Ctrl-C. <br>
+ Shut it down manually with Ctrl-C.<br>
 You're ready to write your application.</p> <br>
 <h2>Running the tests</h2> <br>
 <p>TypeScript unit-tests are usually in the src/app folder. Their filenames must end in .spec.ts.<br>
