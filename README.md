@@ -2,9 +2,11 @@
 A silmlple MEAN Authentication App by using passport.js<br>
 ## Features 
 <br>
-•	Registration <br>
-•	Profile Management <br>
-•	Authentication <br>
+<ul>
+ <li>	Registration</li> <br>
+ <li>Profile Management</li> <br>
+ <li>Authentication</li> <br>
+<li> User Crud Operation</li></ul>
 
 ## Used Passport.js
 <br>
@@ -41,7 +43,7 @@ That command first compiles the application, then simultaneously re-compiles and
 Shut it down manually with Ctrl-C.<br>
 Test-runner output appears in the terminal window. We can update our app and our tests in real-time, keeping a weather eye on the console for broken tests.<br> Karma is occasionally confused and it is often necessary to shut down its browser or even shut the command down (Ctrl-C) and restart it.<br> No worries; it's pretty quick.</p><br>
 <h2>Authors</h2>
-**creativetech solution
+<h3>creativetech solution</h3>
 
 
 
