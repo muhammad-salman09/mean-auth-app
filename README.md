@@ -45,7 +45,7 @@ That command first compiles the application, then simultaneously re-compiles and
 Shut it down manually with ```Ctrl-C```.
 Test-runner output appears in the terminal window. We can update our app and our tests in real-time, keeping a weather eye on the console for broken tests.<br> Karma is occasionally confused and it is often necessary to shut down its browser or even shut the command down ```(Ctrl-C)``` and restart it. No worries; it's pretty quick.
 ## contributors
-https://github.com/nuhammadsalman/mean-auth-ap https://github.com/creativetech-solution/mean-auth-ap
+https://github.com/nuhammadsalman/mean-auth-app https://github.com/creativetech-solution/mean-auth-app
 ## Authors
 **creativetech solution**
 
